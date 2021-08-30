@@ -1,0 +1,14 @@
+D:\Ejercicio\Hipodromo\Hipodromo\bin\Debug\netcoreapp3.1\Hipodromo.exe
+D:\Ejercicio\Hipodromo\Hipodromo\bin\Debug\netcoreapp3.1\Hipodromo.deps.json
+D:\Ejercicio\Hipodromo\Hipodromo\bin\Debug\netcoreapp3.1\Hipodromo.runtimeconfig.json
+D:\Ejercicio\Hipodromo\Hipodromo\bin\Debug\netcoreapp3.1\Hipodromo.runtimeconfig.dev.json
+D:\Ejercicio\Hipodromo\Hipodromo\bin\Debug\netcoreapp3.1\Hipodromo.dll
+D:\Ejercicio\Hipodromo\Hipodromo\bin\Debug\netcoreapp3.1\Hipodromo.pdb
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.csproj.AssemblyReference.cache
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.AssemblyInfoInputs.cache
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.AssemblyInfo.cs
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.csproj.CoreCompileInputs.cache
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.dll
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.pdb
+D:\Ejercicio\Hipodromo\Hipodromo\obj\Debug\netcoreapp3.1\Hipodromo.genruntimeconfig.cache
